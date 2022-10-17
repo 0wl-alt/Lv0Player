@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lv0Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_music_player">Hello Music Player</string>
+</resources>

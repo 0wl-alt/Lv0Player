@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black"
+        app:showAsAction="ifRoom"
+        android:title="首页" />
+
+    <item
+        android:id="@+id/navigation_like"
+        android:icon="@drawable/ic_like_black"
+        app:showAsAction="ifRoom"
+        android:title="我喜欢" />
+
+    <item
+        android:id="@+id/navigation_local"
+        android:icon="@drawable/ic_music_note_b"
+        app:showAsAction="ifRoom"
+        android:title="本地"/>
+</menu>
